@@ -76,7 +76,6 @@ class AlertUsers extends Component{
                           </div>
                           <div class="textbodyalert">
                             <br></br>
-                            epa
                            Dirección:  {item.address}  <br></br>
                            Teléfono:  {item.phoneNumber} <br></br>
                            Ciudad: {item.info}<br></br>

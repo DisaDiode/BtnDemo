@@ -35,12 +35,14 @@ code {
   alt:initial;
   height: 5vmax;
   width: 5vmax;
+  filter: blur(4px);
 
 }
 .logo-disartech{
   alt:initial;
   height: 5.5vmax;
   width: 9vmax;
+  filter: blur(4px);
 
 }
 .rcorner-cartelera{
