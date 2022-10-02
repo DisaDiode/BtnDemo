@@ -39,7 +39,7 @@ class AlertMap extends PureComponent{
 
       tick() {
  
-        fetch("http://192.168.1.100:9098/api/TbBtncartelera")
+        fetch("http://192.168.0.200:9099/api/TbBtncartelera")
         .then(res => res.json())
         .then(
           (result) => {
